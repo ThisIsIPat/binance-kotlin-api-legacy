@@ -1,4 +1,5 @@
-## I originally wanted to work on this, but I actually don't have enough time. Will probably maintain if high demand
+### Use https://github.com/Krokodilushka/binance-kotlin-api for now.
+#### I'll work on this eventually. DSL, data classes, fixed API routes, using v3, Gradle, Weights and optional priority queue with rate limiting :)
 
 # Java Binance API
 
